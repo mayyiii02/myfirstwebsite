@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 218, 214);
+
+}
+h1{
+    size: 20px;
+}
+img{
+background-color: burlywood;
+    
+}
+.Broccoli{background-color: ghostwhite;
+
+}
+.Bear{background-color: lightcoral;
+
+}
+.circular{border-radius: 100%;
+
+}
+
+#heading{color: red;
+}
